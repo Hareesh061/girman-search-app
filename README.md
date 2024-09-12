@@ -1,6 +1,8 @@
 
 ## Full Stack Developer Intern Assignment(GIRMAN TECHNOLOGIES)(Next.js):
 
+*Note: My first Next.js App*
+
 To run in your local machine:
 
 1. Clone the project: git clone URL
